@@ -1,4 +1,4 @@
-- 👋 Привет!
+- 👋 Привет мир
 
 <!---
 artpdp/artpdp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
